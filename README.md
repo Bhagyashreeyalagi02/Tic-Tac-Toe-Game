@@ -17,6 +17,12 @@ HTML: Provides the structure of the game board and interface.
 CSS: Styles the game board and user interface elements for a visually appealing experience.
 JavaScript: Implements game logic, including turn management, win detection, and game reset functionality.
 
+How to Play
+Start the Game: Open the index.html file in your browser to view the 3x3 game grid.
+Take Turns: Click on any empty cell to place your mark (X or O). Players take turns making their moves.
+Winning the Game: The game automatically detects and announces the winner if a player aligns three marks in a row—horizontally, vertically, or diagonally.
+Draw: If all cells are filled and no player has won, the game will declare a draw.
+Reset: Click the "Reset" button to start a new game.
 
 
 

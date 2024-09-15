@@ -23,6 +23,5 @@ Take Turns: Click on any empty cell to place your mark (X or O). Players take tu
 Winning the Game: The game automatically detects and announces the winner if a player aligns three marks in a row—horizontally, vertically, or diagonally.
 Draw: If all cells are filled and no player has won, the game will declare a draw.
 Reset: Click the "Reset" button to start a new game.
-Contributing
-Contributions to improve the game are welcome! If you have suggestions, bug reports, or want to add new features, please follow these steps:
+
 

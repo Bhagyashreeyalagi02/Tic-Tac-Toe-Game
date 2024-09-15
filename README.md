@@ -1,30 +1,31 @@
-# Tic-Tac-Toe-Game
-A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. This classic game allows two players to compete against each other in a 3x3 grid, aiming to get three of their marks in a row—horizontally, vertically, or diagonally.
+# Tic Tac Toe Game
 
-##Table of Contents:
--Features
--Technologies Used
--How to Play
+Welcome to the Tic Tac Toe game repository! This project features a classic Tic Tac Toe game created using HTML, CSS, and JavaScript. It provides a fun and interactive experience for two players to challenge each other on a 3x3 grid.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Play](#how-to-play)
 
 
-##Features
-Interactive Gameplay: Players alternate turns to place their marks (X or O) on the grid.
-Win Detection: The game detects winning combinations or a draw automatically.
-Responsive Design: The game board adjusts to various screen sizes for compatibility with desktops and mobile devices.
-Simple and Clean UI: Designed with a minimalist approach to enhance user experience.
+## Features
 
-##Technologies Used
-HTML: Provides the structure of the game board and interface.
-CSS: Styles the game board and user interface elements for a visually appealing experience.
-JavaScript: Implements game logic, including turn management, win detection, and game reset functionality.
+- **Two-Player Mode**: Play against a friend with alternating turns.
+- **Automatic Win Detection**: The game identifies winning combinations or a draw.
+- **Responsive Design**: The game is optimized for both desktop and mobile devices.
+- **Clean and Simple UI**: User-friendly interface for an enjoyable gaming experience.
+- **Game Reset**: Easily start a new game with the reset button.
 
-##How to Play
-Start the Game: Open the index.html file in your browser to view the 3x3 game grid.
-Take Turns: Click on any empty cell to place your mark (X or O). Players take turns making their moves.
-Winning the Game: The game automatically detects and announces the winner if a player aligns three marks in a row—horizontally, vertically, or diagonally.
+## Technologies Used
+
+- **HTML**: Provides the structure of the game board and interface.
+- **CSS**: Styles the game board and user interface elements.
+- **JavaScript**: Implements game logic, including turn management, win detection, and game reset functionality.
+
+## How to Play
+Start the Game: Open the index.html file in your web browser to view the 3x3 game grid.
+Make Your Move: Click on any empty cell to place your mark (X or O). Players alternate turns.
+Winning the Game: The game will automatically detect and announce the winner if a player aligns three marks in a row (horizontally, vertically, or diagonally).
 Draw: If all cells are filled and no player has won, the game will declare a draw.
-Reset: Click the "Reset" button to start a new game.
-
-
-
-
+Reset the Game: Click the "Reset" button to start a new game.
